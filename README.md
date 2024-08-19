@@ -7,12 +7,25 @@ Music labels and A&R agents need data-driven insights into how different variabl
 
 ### Dataset:
 Data Source: Spotify Weekly Top 200 Songs Streaming Data 2017-2022
+
+**Links:**
+
+https://github.com/yejie7/spotify_top200/tree/main
+
+https://www.kaggle.com/datasets/yelexa/spotify200
+
 Entries: 1,787,999 rows
-Tools and Techniques
+
+### Tools and Techniques:
+
 Data Cleaning & EDA: Pandas, NumPy
+
 Visualization: Matplotlib, Tableau
+
 Machine Learning: Scikit-Learn (Supervised and Unsupervised Learning)
+
 Workflow
+
 ### Data Preparation:
 
 Cleaned and merged the dataset using Pandas and NumPy.
